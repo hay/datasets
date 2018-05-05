@@ -1,0 +1,601 @@
+code,label,type
+A,Amsterdam Centrum,stadsdeel
+A00,Burgwallen-Oude Zijde,buurtcombinatie
+A00a,Kop Zeedijk,buurt
+A00b,Oude Kerk e.o.,buurt
+A00c,Burgwallen Oost,buurt
+A00d,Nes e.o.,buurt
+A00e,BG-terrein e.o.,buurt
+A01,Burgwallen-Nieuwe Zijde,buurtcombinatie
+A01a,Stationsplein e.o.,buurt
+A01b,Hemelrijk,buurt
+A01c,Nieuwendijk Noord,buurt
+A01d,Spuistraat Noord,buurt
+A01e,Nieuwe Kerk e.o.,buurt
+A01f,Spuistraat Zuid,buurt
+A01g,Begijnhofbuurt,buurt
+A01h,Kalverdriehoek,buurt
+A02,Grachtengordel-West,buurtcombinatie
+A02a,Langestraat e.o.,buurt
+A02b,Leliegracht e.o.,buurt
+A02c,Felix Meritisbuurt,buurt
+A02d,Leidsegracht Noord,buurt
+A03,Grachtengordel-Zuid,buurtcombinatie
+A03a,Spiegelbuurt,buurt
+A03b,Gouden Bocht,buurt
+A03c,Van Loonbuurt,buurt
+A03d,Amstelveldbuurt,buurt
+A03e,Rembrandtpleinbuurt,buurt
+A03f,Reguliersbuurt,buurt
+A03g,Leidsegracht Zuid,buurt
+A04,Nieuwmarkt/Lastage,buurtcombinatie
+A04a,Oosterdokseiland,buurt
+A04b,Scheepvaarthuisbuurt,buurt
+A04c,Rapenburg,buurt
+A04d,Lastage,buurt
+A04e,Nieuwmarkt,buurt
+A04f,Uilenburg,buurt
+A04g,Valkenburg,buurt
+A04h,Zuiderkerkbuurt,buurt
+A04i,Waterloopleinbuurt,buurt
+A05,Haarlemmerbuurt,buurtcombinatie
+A05a,Westerdokseiland,buurt
+A05b,Haarlemmerbuurt Oost,buurt
+A05c,Haarlemmerbuurt West,buurt
+A05d,Westelijke Eilanden,buurt
+A05f,Planciusbuurt Noord,buurt
+A05g,Planciusbuurt Zuid,buurt
+A06,Jordaan,buurtcombinatie
+A06a,Driehoekbuurt,buurt
+A06c,Bloemgrachtbuurt,buurt
+A06d,Marnixbuurt Noord,buurt
+A06e,Zaagpoortbuurt,buurt
+A06f,Marnixbuurt Midden,buurt
+A06g,Elandsgrachtbuurt,buurt
+A06h,Passeerdersgrachtbuurt,buurt
+A06i,Groenmarktkadebuurt,buurt
+A06j,Marnixbuurt Zuid,buurt
+A06k,Anjeliersbuurt Noord,buurt
+A06l,Anjeliersbuurt Zuid,buurt
+A07,De Weteringschans,buurtcombinatie
+A07a,Leidsebuurt Noordwest,buurt
+A07b,Leidsebuurt Zuidwest,buurt
+A07c,Leidsebuurt Noordoost,buurt
+A07d,Leidsebuurt Zuidoost,buurt
+A07e,Weteringbuurt,buurt
+A07f,Den Texbuurt,buurt
+A07g,Utrechtsebuurt Zuid,buurt
+A07h,Frederikspleinbuurt,buurt
+A08,Weesperbuurt/Plantage,buurtcombinatie
+A08a,Weesperbuurt,buurt
+A08b,Sarphatistrook,buurt
+A08d,de Plantage,buurt
+A08e,Alexanderplein e.o.,buurt
+A09,Oostelijke Eilanden/Kadijken,buurtcombinatie
+A09a,Marine-Etablissement,buurt
+A09b,Kattenburg,buurt
+A09c,Wittenburg,buurt
+A09d,Oostenburg,buurt
+A09e,Czaar Peterbuurt,buurt
+A09f,Het Funen,buurt
+A09h,Kazernebuurt,buurt
+A09i,Kadijken,buurt
+B,Havens West,stadsdeel
+B10,Westelijk Havengebied,buurtcombinatie
+B10a,Coenhaven/Mercuriushaven,buurt
+B10b,Alfa-driehoek,buurt
+B10c,Petroleumhaven,buurt
+B10d,Westhaven Noord,buurt
+B10e,Vervoerscentrum,buurt
+B10f,Amerikahaven,buurt
+B10g,Afrikahaven,buurt
+B10h,Westhaven Zuid,buurt
+E,West,stadsdeel
+E12,Houthavens,buurtcombinatie
+E12a,Houthavens West,buurt
+E12b,Houthavens Oost,buurt
+E13,Spaarndammer- en Zeeheldenbuurt,buurtcombinatie
+E13a,Zeeheldenbuurt,buurt
+E13b,Spaarndammerbuurt Noordoost,buurt
+E13c,Spaarndammerbuurt Zuidoost,buurt
+E13d,Spaarndammerbuurt Zuidwest,buurt
+E13e,Spaarndammerbuurt Midden,buurt
+E13f,Spaarndammerbuurt Noordwest,buurt
+E13g,Westergasfabriek,buurt
+E13h,Overbraker Binnenpolder,buurt
+E14,Staatsliedenbuurt,buurtcombinatie
+E14a,De Wittenbuurt Noord,buurt
+E14b,De Wittenbuurt Zuid,buurt
+E14c,Staatsliedenbuurt Noordoost,buurt
+E14d,Fannius Scholtenbuurt,buurt
+E14e,Westerstaatsman,buurt
+E14f,Buyskade e.o.,buurt
+E15,Centrale Markt,buurtcombinatie
+E15a,Ecowijk,buurt
+E15b,Markthallen,buurt
+E15c,Bedrijvencentrum Westerkwartier,buurt
+E15d,Marcanti,buurt
+E16,Frederik Hendrikbuurt,buurtcombinatie
+E16a,Frederik Hendrikbuurt Noord,buurt
+E16b,Frederik Hendrikbuurt Zuidoost,buurt
+E16c,Frederik Hendrikbuurt Zuidwest,buurt
+E17,Da Costabuurt,buurtcombinatie
+E17a,Da Costabuurt Noord,buurt
+E18,Kinkerbuurt,buurtcombinatie
+E18a,Bellamybuurt Noord,buurt
+E18b,Bellamybuurt Zuid,buurt
+E19,Van Lennepbuurt,buurtcombinatie
+E19a,Da Costabuurt Zuid,buurt
+E19b,Borgerbuurt,buurt
+E19c,Lootsbuurt,buurt
+E20,Helmersbuurt,buurtcombinatie
+E20a,Helmersbuurt Oost,buurt
+E20b,WG-terrein,buurt
+E20c,Cremerbuurt Oost,buurt
+E21,Overtoomse Sluis,buurtcombinatie
+E21a,Cremerbuurt West,buurt
+E21b,Vondelparkbuurt West,buurt
+E22,Vondelbuurt,buurtcombinatie
+E22a,Vondelparkbuurt Oost,buurt
+E22b,Vondelparkbuurt Midden,buurt
+E36,Sloterdijk,buurtcombinatie
+E36a,Woon- en groengebied Sloterdijk,buurt
+E36b,Bedrijventerrein Sloterdijk I,buurt
+E37,Landlust,buurtcombinatie
+E37a,Bedrijventerrein Landlust,buurt
+E37c,Bosleeuw,buurt
+E37d,Landlust Zuid,buurt
+E37e,Erasmusparkbuurt Oost,buurt
+E37f,Gibraltarbuurt,buurt
+E37g,Landlust Noord,buurt
+E38,Erasmuspark,buurtcombinatie
+E38c,Erasmusparkbuurt West,buurt
+E38d,Robert Scottbuurt Oost,buurt
+E39,De Kolenkit,buurtcombinatie
+E39a,Robert Scottbuurt West,buurt
+E39b,Laan van Spartaan,buurt
+E39c,Kolenkitbuurt Zuid,buurt
+E39d,Kolenkitbuurt Noord,buurt
+E40,Geuzenbuurt,buurtcombinatie
+E40a,Geuzenhofbuurt,buurt
+E40b,Trompbuurt,buurt
+E40c,Pieter van der Doesbuurt,buurt
+E41,Van Galenbuurt,buurtcombinatie
+E41a,John Franklinbuurt,buurt
+E41b,Jan Maijenbuurt,buurt
+E41c,Orteliusbuurt Noord,buurt
+E41d,Mercatorpark,buurt
+E42,Hoofdweg e.o.,buurtcombinatie
+E42a,Balboaplein e.o.,buurt
+E42b,Columbusplein e.o.,buurt
+E42c,Orteliusbuurt Midden,buurt
+E42d,Orteliusbuurt Zuid,buurt
+E43,Westindische Buurt,buurtcombinatie
+E43a,Paramariboplein e.o.,buurt
+E43b,Postjeskade e.o.,buurt
+E75,Chassébuurt,buurtcombinatie
+E75a,Kortenaerkwartier,buurt
+E75b,Filips van Almondekwartier,buurt
+E75c,De Wester Quartier,buurt
+E75d,Van Brakelkwartier,buurt
+F,Nieuw West,stadsdeel
+F11,Bedrijventerrein Sloterdijk,buurtcombinatie
+F11a,Sloterdijk II,buurt
+F11c,Sloterdijk III Oost,buurt
+F11d,Sloterdijk III West,buurt
+F11e,De Heining,buurt
+F11f,Teleport,buurt
+F11h,Bretten Oost,buurt
+F11j,Bretten West,buurt
+F76,Slotermeer-Noordoost,buurtcombinatie
+F76a,Buurt 3,buurt
+F76b,Buurt 2,buurt
+F77,Slotermeer-Zuidwest,buurtcombinatie
+F77a,Slotermeer Zuid,buurt
+F77b,Noordoever Sloterplas,buurt
+F77c,Buurt 4 Oost,buurt
+F77d,Buurt 5 Noord,buurt
+F77e,Sloterpark,buurt
+F77f,Buurt 5 Zuid,buurt
+F78,Geuzenveld,buurtcombinatie
+F78a,Buurt 6,buurt
+F78b,Buurt 7,buurt
+F78c,Buurt 8,buurt
+F78d,Buurt 9,buurt
+F78e,Eendrachtspark,buurt
+F79,de Eendracht,buurtcombinatie
+F79a,Osdorper Binnenpolder,buurt
+F79b,Buurt 10,buurt
+F80,Lutkemeer/Ookmeer,buurtcombinatie
+F80a,Ookmeer,buurt
+F80b,Osdorper Bovenpolder,buurt
+F80c,Bedrijvenpark Lutkemeer,buurt
+F81,Osdorp-Oost,buurtcombinatie
+F81a,Wildeman,buurt
+F81b,Meer en Oever,buurt
+F81c,Osdorpplein e.o.,buurt
+F81d,Calandlaan/Lelylaan,buurt
+F81e,Osdorp Zuidoost,buurt
+F82,Osdorp-Midden,buurtcombinatie
+F82a,Osdorp Midden Noord,buurt
+F82b,Osdorp Midden Zuid,buurt
+F82c,Zuidwestkwadrant Osdorp Noord,buurt
+F82d,Zuidwestkwadrant Osdorp Zuid,buurt
+F83,De Punt,buurtcombinatie
+F83a,De Punt,buurt
+F83b,Bedrijvencentrum Osdorp,buurt
+F84,Middelveldsche Akerpolder,buurtcombinatie
+F84a,Middelveldsche Akerpolder,buurt
+F84b,De Aker West,buurt
+F84c,De Aker Oost,buurt
+F85,Slotervaart Noord,buurtcombinatie
+F85a,Oostoever Sloterplas,buurt
+F85b,Emanuel van Meterenbuurt,buurt
+F85c,Jacob Geelbuurt,buurt
+F86,Overtoomse Veld,buurtcombinatie
+F86a,Overtoomse Veld Noord,buurt
+F86b,Overtoomse Veld Zuid,buurt
+F86c,Rembrandtpark Noord,buurt
+F86d,Rembrandtpark Zuid,buurt
+F86e,Johan Jongkindbuurt,buurt
+F86f,Lucas/Andreasziekenhuis e.o.,buurt
+F87,Westlandgracht,buurtcombinatie
+F87a,Koningin Wilhelminaplein,buurt
+F87b,Andreasterrein,buurt
+F87c,Delflandpleinbuurt Oost,buurt
+F87d,Delflandpleinbuurt West,buurt
+F87e,Riekerhaven,buurt
+F87f,Schipluidenbuurt,buurt
+F88,Sloter/Riekerpolder,buurtcombinatie
+F88a,Riekerpolder,buurt
+F88b,Park Haagseweg,buurt
+F88c,Nieuwe Meer,buurt
+F88d,Sloterweg e.o.,buurt
+F88e,Nieuw Sloten Noordwest,buurt
+F88f,Nieuw Sloten Noordoost,buurt
+F88g,Belgiëplein e.o.,buurt
+F88h,Nieuw Sloten Zuidwest,buurt
+F88i,Nieuw Sloten Zuidoost,buurt
+F88j,Dorp Sloten,buurt
+F89,Slotervaart Zuid,buurtcombinatie
+F89a,Louis Chrispijnbuurt,buurt
+F89b,Jacques Veldmanbuurt,buurt
+F89c,Staalmanbuurt,buurt
+F89d,Medisch Centrum Slotervaart,buurt
+K,Zuid,stadsdeel
+K23,Zuidas,buurtcombinatie
+K23a,Zuidas Noord,buurt
+K23b,RAI,buurt
+K23c,VU-kwartier,buurt
+K23d,Zuidas Zuid,buurt
+K23e,Vivaldi,buurt
+K24,Oude Pijp,buurtcombinatie
+K24a,Hemonybuurt,buurt
+K24b,Gerard Doubuurt,buurt
+K24c,Frans Halsbuurt,buurt
+K24d,Hercules Seghersbuurt,buurt
+K24e,Sarphatiparkbuurt,buurt
+K25,Nieuwe Pijp,buurtcombinatie
+K25a,Willibrordusbuurt,buurt
+K25b,Van der Helstpleinbuurt,buurt
+K25c,Lizzy Ansinghbuurt,buurt
+K25d,Cornelis Troostbuurt,buurt
+K26,Zuid Pijp,buurtcombinatie
+K26a,Diamantbuurt,buurt
+K26b,Burgemeester Tellegenbuurt Oost,buurt
+K26c,Burgemeester Tellegenbuurt West,buurt
+K44,Hoofddorppleinbuurt,buurtcombinatie
+K44a,Surinamepleinbuurt,buurt
+K44b,Westlandgrachtbuurt,buurt
+K44c,Aalsmeerwegbuurt West,buurt
+K44d,Aalsmeerwegbuurt Oost,buurt
+K44e,Legmeerpleinbuurt,buurt
+K44f,Bedrijventerrein Schinkel,buurt
+K45,Schinkelbuurt,buurtcombinatie
+K45a,Schinkelbuurt Noord,buurt
+K45b,Schinkelbuurt Zuid,buurt
+K46,Willemspark,buurtcombinatie
+K46a,Valeriusbuurt Oost,buurt
+K46b,Valeriusbuurt West,buurt
+K46c,Willemsparkbuurt Noord,buurt
+K46d,Vondelpark West,buurt
+K47,Museumkwartier,buurtcombinatie
+K47a,Johannnes Vermeerbuurt,buurt
+K47b,P.C. Hooftbuurt,buurt
+K47c,Concertgebouwbuurt,buurt
+K47d,Cornelis Schuytbuurt,buurt
+K47e,Banpleinbuurt,buurt
+K47f,Hondecoeterbuurt,buurt
+K47g,Harmoniehofbuurt,buurt
+K47h,Museumplein,buurt
+K47i,Vondelpark Oost,buurt
+K47j,Duivelseiland,buurt
+K48,Stadionbuurt,buurtcombinatie
+K48a,Bertelmanpleinbuurt,buurt
+K48b,Marathonbuurt Oost,buurt
+K48c,Marathonbuurt West,buurt
+K48d,Olympisch Stadion e.o.,buurt
+K48e,IJsbaanpad e.o.,buurt
+K48f,Van Tuyllbuurt,buurt
+K49,Apollobuurt,buurtcombinatie
+K49a,Diepenbrockbuurt,buurt
+K49b,Beethovenbuurt,buurt
+K49c,Hiltonbuurt,buurt
+K49d,Minervabuurt Noord,buurt
+K49e,Minervabuurt Midden,buurt
+K49f,Minervabuurt Zuid,buurt
+K52,Scheldebuurt,buurtcombinatie
+K52a,Wielingenbuurt,buurt
+K52b,Scheldebuurt West,buurt
+K52c,Scheldebuurt Midden,buurt
+K52d,Scheldebuurt Oost,buurt
+K52g,Veluwebuurt,buurt
+K52h,Kop Zuidas,buurt
+K53,IJselbuurt,buurtcombinatie
+K53a,IJselbuurt West,buurt
+K53b,IJselbuurt Oost,buurt
+K54,Rijnbuurt,buurtcombinatie
+K54a,Kromme Mijdrechtbuurt,buurt
+K54b,Rijnbuurt Oost,buurt
+K54c,Rijnbuurt Midden,buurt
+K54d,Rijnbuurt West,buurt
+K54e,Zorgvlied,buurt
+K59,Prinses Irenebuurt e.o.,buurtcombinatie
+K59a,Prinses Irenebuurt,buurt
+K59b,Beatrixpark,buurt
+K90,Buitenveldert-West,buurtcombinatie
+K90a,Gelderlandpleinbuurt,buurt
+K90c,Buitenveldert Midden Zuid,buurt
+K90d,Buitenveldert Zuidwest,buurt
+K90e,Amsterdamse Bos,buurt
+K90i,Buitenveldert West Midden,buurt
+K90j,Zuiderhof,buurt
+K91,Buitenveldert-Oost,buurtcombinatie
+K91a,De Klenckebuurt,buurt
+K91b,Buitenveldert Oost Midden,buurt
+K91c,Buitenveldert Zuidoost,buurt
+K91d,Amstelpark,buurt
+M,Oost,stadsdeel
+M27,Weesperzijde,buurtcombinatie
+M27a,Swammerdambuurt,buurt
+M27b,Weesperzijde Midden/Zuid,buurt
+M27c,Parooldriehoek,buurt
+M28,Oosterparkbuurt,buurtcombinatie
+M28a,Oosterparkbuurt Noordwest,buurt
+M28b,Oosterpark,buurt
+M28c,Oosterparkbuurt Zuidoost,buurt
+M28d,Oosterparkbuurt Zuidwest,buurt
+M29,Dapperbuurt,buurtcombinatie
+M29a,Dapperbuurt Noord,buurt
+M29b,Dapperbuurt Zuid,buurt
+M29c,Oostpoort,buurt
+M30,Transvaalbuurt,buurtcombinatie
+M30a,Transvaalbuurt West,buurt
+M30b,Transvaalbuurt Oost,buurt
+M31,Indische Buurt West,buurtcombinatie
+M31a,Noordwestkwadrant Indische Buurt Noord,buurt
+M31b,Noordwestkwadrant Indische Buurt Zuid,buurt
+M31c,Zuidwestkwadrant Indische Buurt,buurt
+M32,Indische Buurt Oost,buurtcombinatie
+M32a,Noordoostkwadrant Indische Buurt,buurt
+M32b,Zuidoostkwadrant Indische Buurt,buurt
+M32c,Zeeburgerdijk Oost,buurt
+M32d,Flevopark,buurt
+M33,Oostelijk Havengebied,buurtcombinatie
+M33a,Oostelijke Handelskade,buurt
+M33b,Rietlanden,buurt
+M33c,Java-eiland,buurt
+M33d,KNSM-eiland,buurt
+M33e,Sporenburg,buurt
+M33f,Borneo,buurt
+M33g,Entrepot-Noordwest,buurt
+M33h,Architectenbuurt,buurt
+M33i,Bedrijvengebied Veelaan,buurt
+M33j,Bedrijvengebied Cruquiusweg,buurt
+M33k,Bedrijvengebied Zeeburgerkade,buurt
+M34,Zeeburgereiland/Nieuwe diep,buurtcombinatie
+M34a,Zeeburgereiland Noordwest,buurt
+M34c,Zeeburgereiland Zuidoost,buurt
+M34d,Zeeburgereiland Zuidwest,buurt
+M34e,Nieuwe Diep/Diemerpark,buurt
+M34f,RI Oost terrein,buurt
+M34g,Zeeburgereiland Noordoost,buurt
+M35,IJburg West,buurtcombinatie
+M35a,Steigereiland Noord,buurt
+M35b,Steigereiland Zuid,buurt
+M35c,Haveneiland Zuidwest/Rieteiland West,buurt
+M35e,Haveneiland Noordwest,buurt
+M35f,Haveneiland Noordoost,buurt
+M50,IJburg Oost,buurtcombinatie
+M50a,Strandeiland,buurt
+M50b,Middeneiland Zuidoost,buurt
+M50c,Middeneiland Noordoost,buurt
+M50d,Middeneiland Zuidwest,buurt
+M50e,Middeneiland Noordwest,buurt
+M50f,Buiteneiland,buurt
+M50g,Centrumeiland,buurt
+M51,IJburg Zuid,buurtcombinatie
+M51a,Rieteiland Oost,buurt
+M51b,Haveneiland Oost,buurt
+M51c,Haveneiland Noord,buurt
+M55,Frankendael,buurtcombinatie
+M55b,De Eenhoorn,buurt
+M55c,Julianapark,buurt
+M55d,Don Bosco,buurt
+M55e,Frankendael,buurt
+M55f,Tuindorp Amstelstation,buurt
+M55g,De Wetbuurt,buurt
+M55h,Tuindorp Frankendael,buurt
+M55i,Van der Kunbuurt,buurt
+M56,Middenmeer,buurtcombinatie
+M56a,Linnaeusparkbuurt,buurt
+M56b,Middenmeer Noord,buurt
+M56c,Middenmeer Zuid,buurt
+M56d,Sportpark Middenmeer Zuid,buurt
+M56e,Sportpark Middenmeer Noord,buurt
+M56f,Park De Meer,buurt
+M56g,Sportpark Voorland,buurt
+M56h,Science Park Noord,buurt
+M56i,Science Park Zuid,buurt
+M57,Betondorp,buurtcombinatie
+M57a,Betondorp,buurt
+M57b,Nieuwe Oosterbegraafplaats,buurt
+M57c,Drieburg,buurt
+M58,Omval/Overamstel,buurtcombinatie
+M58b,Weespertrekvaart,buurt
+M58e,Amstelglorie,buurt
+M58f,Overamstel,buurt
+M58g,Amstelkwartier Noord,buurt
+M58h,De Omval,buurt
+M58i,Amstelkwartier Zuid,buurt
+M58j,Amstelkwartier West,buurt
+N,Noord,stadsdeel
+N60,Volewijck,buurtcombinatie
+N60a,Van der Pekbuurt,buurt
+N60b,Bloemenbuurt Zuid,buurt
+N60c,Bloemenbuurt Noord,buurt
+N61,IJplein/Vogelbuurt,buurtcombinatie
+N61a,IJplein e.o.,buurt
+N61b,Vogelbuurt Zuid,buurt
+N61c,Vogelbuurt Noord,buurt
+N61d,Vliegenbos,buurt
+N62,Tuindorp Nieuwendam,buurtcombinatie
+N62a,Tuindorp Nieuwendam West,buurt
+N62b,Tuindorp Nieuwendam Oost,buurt
+N63,Tuindorp Buiksloot,buurtcombinatie
+N63a,Blauwe Zand,buurt
+N64,Nieuwendammerdijk/Buiksloterdijk,buurtcombinatie
+N64a,Buiksloterdijk West,buurt
+N64b,Buiksloterdijk Oost,buurt
+N64c,Nieuwendammerdijk West,buurt
+N64d,Nieuwendammerdijk Oost,buurt
+N64e,Nieuwendammerdijk Zuid,buurt
+N65,Tuindorp Oostzaan,buurtcombinatie
+N65a,Tuindorp Oostzaan West,buurt
+N65b,Tuindorp Oostzaan Oost,buurt
+N65c,Terrasdorp,buurt
+N65d,De Bongerd,buurt
+N66,Oostzanerwerf,buurtcombinatie
+N66a,Molenwijk,buurt
+N66b,Oostzanerdijk,buurt
+N66c,Walvisbuurt,buurt
+N66d,Twiske West,buurt
+N66e,Noorder IJplas,buurt
+N66f,Molenwijk,buurt
+N66g,Circus/Kermisbuurt,buurt
+N67,Kadoelen,buurtcombinatie
+N67a,Kadoelen,buurt
+N67b,Twiske Oost,buurt
+N68,Waterlandpleinbuurt,buurtcombinatie
+N68a,Markengouw Noord,buurt
+N68b,Werengouw Noord,buurt
+N68c,Werengouw Midden,buurt
+N68d,Markengouw Midden,buurt
+N68e,Markengouw Zuid,buurt
+N68f,Werengouw Zuid,buurt
+N68g,De Weeren,buurt
+N69,Buikslotermeer,buurtcombinatie
+N69a,Rode Kruisbuurt,buurt
+N69b,Buikslotermeerpleinbuurt,buurt
+N69c,Loenermark,buurt
+N69d,Nieuwendam Noordwest Zuid,buurt
+N69e,Nieuwendam Noordwest Noord,buurt
+N69f,Nintermanterrein,buurt
+N69g,Elzenhagen,buurt
+N69h,Jeugdland,buurt
+N69i,Buikslotermeer Noord,buurt
+N69j,Buikslotermeerplein,buurt
+N69k,Plan van Gool,buurt
+N69l,De Kleine Wereld,buurt
+N69m,Buikslotermeer Noord,buurt
+N70,Banne Buiksloot,buurtcombinatie
+N70a,Banne Zuidwest,buurt
+N70b,Banne Zuidoost,buurt
+N70c,Banne Noordwest,buurt
+N70d,Banne Noordoost,buurt
+N70e,Buiksloterbreek,buurt
+N70f,Marjoleinterrein,buurt
+N71,Buiksloterham,buurtcombinatie
+N71a,Buiksloterham,buurt
+N71b,Shell-terrein,buurt
+N71c,Papaverweg e.o.,buurt
+N71d,Cornelis Douwesterrein,buurt
+N71e,Cornelis Douwesterrein,buurt
+N71f,NDSM terrein,buurt
+N71g,Buiksloterham,buurt
+N71h,Overhoeks,buurt
+N72,Noordelijke IJ-oevers West,buurtcombinatie
+N72a,Bedrijventerrein Hamerstraat,buurt
+N72b,Zamenhofstraat e.o.,buurt
+N72c,Bedrijventerrein Nieuwendammerdijk,buurt
+N73,Waterland,buurtcombinatie
+N73a,Schellingwoude West,buurt
+N73b,Schellingwoude Oost,buurt
+N73c,Schellingwoude Noord,buurt
+N73d,Durgerdam,buurt
+N73e,Zwarte Gouw,buurt
+N73f,Ransdorp,buurt
+N73g,Holysloot,buurt
+N73h,Zunderdorp,buurt
+N73i,Noorderstrook West,buurt
+N73j,Noorderstrook Oost,buurt
+N74,Elzenhagen,buurtcombinatie
+N74a,Nintemanterrein,buurt
+N74b,Elzenhagen Zuid,buurt
+N74c,Elzenhagen Noord,buurt
+T,Zuidoost,stadsdeel
+T92,Amstel III/Bullewijk,buurtcombinatie
+T92a,Hoofdcentrum Zuidoost,buurt
+T92b,Amstel III deel A/B Noord,buurt
+T92c,Amstel III deel C/D Noord,buurt
+T92d,Amstel III deel A/B Zuid,buurt
+T92e,Amstel III deel C/D Zuid,buurt
+T92f,AMC,buurt
+T92g,Hoge Dijk,buurt
+T93,Bijlmer Centrum,buurtcombinatie
+T93a,Venserpolder West,buurt
+T93b,Venserpolder Oost,buurt
+T93c,D-buurt,buurt
+T93d,F-buurt,buurt
+T93e,Amsterdamse Poort,buurt
+T93f,Hoptille,buurt
+T93g,Rechte H-buurt,buurt
+T93h,Hakfort/Huigenbos,buurt
+T93i,Huntum,buurt
+T93j,Vogeltjeswei,buurt
+T93k,Nelson Mandelapark,buurt
+T94,Bijlmer Oost,buurtcombinatie
+T94a,E-buurt,buurt
+T94b,G-buurt West,buurt
+T94c,Bijlmermuseum Noord,buurt
+T94d,Kortvoort,buurt
+T94e,Kelbergen,buurt
+T94f,K-buurt Midden,buurt
+T94g,K-buurt Zuidoost,buurt
+T94h,K-buurt Zuidwest,buurt
+T94i,Grunder/Koningshoef,buurt
+T94j,G-buurt Oost,buurt
+T94k,Kantershof,buurt
+T94l,Gooise Kant,buurt
+T94m,G-buurt Noord,buurt
+T94n,Bijlmermuseum Zuid,buurt
+T95,Nellestein,buurtcombinatie
+T95a,L-buurt,buurt
+T95b,Gaasperpark,buurt
+T95c,Gaasperplas,buurt
+T96,Holendrecht/Reigersbos,buurtcombinatie
+T96a,Holendrecht Noordwest,buurt
+T96b,Reigersbos Noord,buurt
+T96c,Holendrecht Oost,buurt
+T96d,Gaasperdam Noord,buurt
+T96e,Gaasperdam Zuid,buurt
+T96f,Reigersbos Midden,buurt
+T96g,Reigersbos Zuid,buurt
+T97,Gein,buurtcombinatie
+T97a,Gein Noordwest,buurt
+T97b,Gein Zuidwest,buurt
+T97c,Gein Noordoost,buurt
+T97d,Gein Zuidoost,buurt
+T98,Driemond,buurtcombinatie
+T98a,Dorp Driemond,buurt
+T98b,Landelijk Gebied Driemond,buurt
